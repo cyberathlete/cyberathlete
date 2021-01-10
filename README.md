@@ -30,11 +30,7 @@
 
 
 </details>
-
-<details>
   
   [![CyberAthlete's github stats](https://github-readme-stats.vercel.app/api?username=cyberathlete&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com//github-readme-stats)
-
-</details>
 
 [website]: https://error404python.blogspot.com/
