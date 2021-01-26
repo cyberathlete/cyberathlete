@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chocolate Factory [Try Hack Me] - Write up/Walkthrough](https://error404python.blogspot.com/2021/01/chocolate-factory-try-hack-me-write.html)
 - [Setting up the lab for hacking(part-1)](https://error404python.blogspot.com/2020/11/blog-post.html)
 - [How to Make a MAC changer with Python in 3 Lines.](https://error404python.blogspot.com/2020/12/how-to-make-mac-changer-with-python-in.html)
 - [Make a ARP Spoofer in 3 Lines with Python](https://error404python.blogspot.com/2020/11/make-arp-spoofer-in-3-lines-with-python.html)
 - [MAKE ANY PROGRAM AUTORUN ON STARTUP IN WINDOWS10](https://error404python.blogspot.com/2020/10/make-any-program-autorun-on-startup-in.html)
-- [How to make a strong password](https://error404python.blogspot.com/2020/09/how-to-make-strong-password.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://error404python.blogspot.com/)
