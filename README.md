@@ -26,7 +26,7 @@
 - [Make a ARP Spoofer in 3 Lines with Python](https://error404python.blogspot.com/2020/11/make-arp-spoofer-in-3-lines-with-python.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://e4o4.blogspot.com//)
+➡️ [more blog posts...](https://www.e4o4.blogspot.com//)
 
 
 </details>
@@ -36,5 +36,5 @@
   
   [![CyberAthlete's github stats](https://github-readme-stats.vercel.app/api?username=cyberathlete&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com//github-readme-stats)
 
-[website]: https://e4o4.blogspot.com//
+[website]: https://www.e4o4.blogspot.com//
 [course]: https://pypi.org/project/netack/
