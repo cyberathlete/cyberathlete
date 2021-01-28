@@ -26,7 +26,7 @@
 - [Make a ARP Spoofer in 3 Lines with Python](https://error404python.blogspot.com/2020/11/make-arp-spoofer-in-3-lines-with-python.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.e4o4.blogspot.com//)
+➡️ [more blog posts...](https://e4o4.blogspot.com//)
 
 
 </details>
