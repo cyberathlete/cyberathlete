@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyborg[Try_hack me challenge]-Writeup/Walkthrough](https://error404python.blogspot.com/2021/01/cyborgtryhack-me-challenge.html)
-- [Chocolate Factory [Try Hack Me] - Write up/Walkthrough](https://error404python.blogspot.com/2021/01/chocolate-factory-try-hack-me-write.html)
-- [Setting up the lab for hacking(part-1)](https://error404python.blogspot.com/2020/11/blog-post.html)
-- [How to Make a MAC changer with Python in 3 Lines.](https://error404python.blogspot.com/2020/12/how-to-make-mac-changer-with-python-in.html)
-- [Make a ARP Spoofer in 3 Lines with Python](https://error404python.blogspot.com/2020/11/make-arp-spoofer-in-3-lines-with-python.html)
+- [Cyborg[Try_hack me challenge]-Writeup/Walkthrough](https://e4o4.blogspot.com/2021/01/cyborgtryhack-me-challenge.html)
+- [Chocolate Factory [Try Hack Me] - Write up/Walkthrough](https://e4o4.blogspot.com/2021/01/chocolate-factory-try-hack-me-write.html)
+- [Setting up the lab for hacking(part-1)](https://e4o4.blogspot.com/2020/11/blog-post.html)
+- [How to Make a MAC changer with Python in 3 Lines.](https://e4o4.blogspot.com/2020/12/how-to-make-mac-changer-with-python-in.html)
+- [Make a ARP Spoofer in 3 Lines with Python](https://e4o4.blogspot.com/2020/11/make-arp-spoofer-in-3-lines-with-python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://e4o4.blogspot.com//)
