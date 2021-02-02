@@ -1,7 +1,7 @@
 ### Hi there, I'm Akash - aka [CyberAthlete][website] 👋
 
 
-## I'm a IT Student!!
+## I'm an IT Student!!
 
 - 🔭 I just published my first python library: [NetAck][course]!
 - 🌱 I’m currently learning CyberSecurity
