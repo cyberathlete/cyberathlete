@@ -5,7 +5,6 @@
 
 - 🔭 I just published my first python library: [NetAck][course]!
 - 🌱 I’m currently learning CyberSecurity
-- 🥅 2021 Goals: Work on some new projects and learning some cloud computing
 
 ### Connect with me:
 
